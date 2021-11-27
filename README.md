@@ -107,7 +107,7 @@ Execute the program
       <p  align="center">3.19MA220-Mathematics for Artificial Intelligence</p>
       <p  align="center">4.19EY701-Soft Skills</p>
       <p  align="center">5.19AI302-Engineering Design and Modelling</p>
-      <p  align="center">6.19AI303-Engineering Mechanics and Product Developement</p>
+      <p  align="center">6.19AI303-Engineering Mechanics and Product  Development</p>
       <p  align="center">7.19AI301-Python Programming</p>
       <p  align="center">8.ECA051-AD-Mentoring-AD1</p>
    </body>
