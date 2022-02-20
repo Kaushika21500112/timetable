@@ -115,3 +115,6 @@ Execute the program
 ~~~
 # OUPUT
 ![GitHub Logo](output.png)
+
+# RESULT
+Thus, a html webpage is created to display the timetable.
